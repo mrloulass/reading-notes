@@ -17,6 +17,6 @@ Markdown is a way to style text on the web using Syntax.
 > Knowledge is power 
 > - Francis Bacon
 
-6. Add inline code blocks using {}
+6. Add inline code blocks using backticks `**italic** or *bold*`
 
 
