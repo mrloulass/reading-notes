@@ -8,3 +8,10 @@
 3. [Day 3 Reading](day3.md)
 
 4. [Day 4 Reading](day4.md)
+
+## Infor
+[Canvas Profile](https://canvas.instructure.com/about/27593262)
+
+[Slack Profile](https://app.slack.com/client/T039KG69K/G01D0UKA42Y/user_profile/U01BZ43BN3W)
+
+
