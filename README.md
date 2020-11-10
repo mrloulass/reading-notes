@@ -1,4 +1,5 @@
-# Reading-notes
+# Reading-notes 
+![Louis Picture]()
 ##  seattle-code-102n54: Intro to Software Development
 
 1. [Day 1 Reading](day1.md)
