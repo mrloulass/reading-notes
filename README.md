@@ -1,4 +1,7 @@
 # Reading-notes 
+## About
+Hello I'm Louis. I enjoy traveling, playing video games and watching sports.
+
 ![Louis Picture]()
 ##  seattle-code-102n54: Intro to Software Development
 
