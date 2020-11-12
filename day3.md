@@ -21,3 +21,18 @@
   - Tracking Changes
   - Loss of Data
   - States
+  
+
+terminal commands
+- ls mean list all folder
+- cd mean change dirtory
+- mkdir mean new dirtory
+- rm -r mean remove folder
+- rm mean remove files
+- touch mean make new file
+- pwd mean present working dirtory
+- cp mean copy
+- .. goes up one level or move file
+- ../.. goes back twice
+- mv move file
+- . means prsent location
