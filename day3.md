@@ -11,8 +11,13 @@
  4. Keep a history
  5. Automate tasks
  
- Example of a version control is **Git**
+ Example of a version control is [Git](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)
  
- [Git](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)
+ Git is a distributed version control system. It allow you to work offline or remotely.
  
- *Git* is a distributed version control system. It allow you to work offline or remotely.
+ **What does Git do?**
+  - Snapshots
+  - Local Operations
+  - Tracking Changes
+  - Loss of Data
+  - States
