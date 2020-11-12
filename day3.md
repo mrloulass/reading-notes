@@ -24,15 +24,15 @@
   
 
 terminal commands
-- ls mean list all folder
-- cd mean change dirtory
-- mkdir mean new dirtory
-- rm -r mean remove folder
-- rm mean remove files
-- touch mean make new file
-- pwd mean present working dirtory
-- cp mean copy
-- .. goes up one level or move file
-- ../.. goes back twice
-- mv move file
-- . means prsent location
+- ls = list all files in directory
+- cd = change directory
+- mkdir = make new directory
+- rm -r = remove or delete folder (recursivly)
+- rm = remove oe delete files
+- touch = make new file
+- pwd = present working directory
+- cp = copy
+- .. = goes up one level or move file
+- ../.. = goes back twice
+- mv  = move file
+- . = means present location
