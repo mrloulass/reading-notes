@@ -25,3 +25,20 @@
  1. What is your content
  2. Prioritzing your path
  3. Organizing layouts of groups or blocks of information
+ 
+## How HTML sites are Structured ##
+
+ - HTML pages are text documents. 
+ The HTML code is made up of characters that live inside angled brackets. These are called **elements** or tags 
+  1. Example of a element <a> </a> 
+- Attributes provide extra information to an element
+- Basic structure of a HTML
+ 1. The <body> everything in the body are shown inside the main browser window
+ 2. The <head> contains information about the page
+ 3. the <title> is shown on the tp of a url page or tab
+
+ 
+
+
+
+
