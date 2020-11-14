@@ -36,3 +36,9 @@ terminal commands
 - ../.. = goes back twice
 - mv  = move file
 - . = means present location
+
+**How to use git commands in terminal**
+- git status = check if there are any red/untracked changes to your repository (green means it's being tracked!)
+- git add . = add all the files that need to be tracked 
+- git commit -m "enter message here" = add a caption/message to your commit/snapshot
+- git push origin main = send the code up from your local machine to the cloud/GitHub
