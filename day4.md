@@ -35,7 +35,7 @@
 - Basic structure of a HTML
  1. The <body> everything in the body are shown inside the main browser window
  2. The <head> contains information about the page
- 3. the <title> is shown on the tp of a url page or tab
+ 3. The <title> is shown on the top of a url page or tab
 
  
 
