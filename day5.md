@@ -37,7 +37,7 @@ JavaScript is a text-based programming language used both on the client-side and
 - a **prompt** is a popup that asks for text back usually this prompt is a question
 - **if** statments tell us if something meets a condition
 
-## [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=1)
+## [How Computers Work]
 
 1. What Makes a Computer 
  - Inputs, Storage, Processing, Output
