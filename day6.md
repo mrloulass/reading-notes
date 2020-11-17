@@ -24,5 +24,28 @@ Writing a Script
 2. Expressions that use two or more values to return a single value
  - Ex. (var area = 3 * 2;) the value of the area is now 6
 
-**Operators** 
+**Operators** allow programmers to create a single value from one or more values.
+1. assignment
+2. arithmetic
+3. string
+4. comparsion
+5. logical
 
+
+**Function** let you group a series of statements together to perform a specific task or code block.
+1. first call the function by give it a name
+ - Ex: function callName(){
+     *add code block*;
+ }
+ 2. add code or blocks of code betwenn{}
+ 3. if you add parameters you must have a return value
+ 4. last define the function by adding the function name after }
+  - Ex: callName();
+
+
+- OR Operators are possible with '2 pipes' ||
+- || double pipes equal the OR Orperator
+- Or Operator only one value has to be true
+
+- double ampersand && is the And Operatior
+- in an And Operation both values have to be true
