@@ -56,6 +56,38 @@ Hello I'm Louis. I enjoy traveling, playing video games and watching sports.
 
 15. [201 Day 15 reading](201day15.md)
 
+##Seattle-Code-301n21: Intermediate Software Development
+
+1. [301 Day 01 reading](301day01.md)
+
+2. [301 Day 02 reading](301day02.md)
+
+3. [301 Day 03 reading](301day03.md)
+
+4. [301 Day 04 reading](301day04.md)
+
+5. [301 Day 05 reading](301day05.md)
+
+6. [301 Day 06 reading](301day06.md)
+
+7. [301 Day 07 reading](301day07.md)
+
+8. [301 Day 08 reading](301day08.md)
+
+9. [301 Day 09 reading](301day09.md)
+
+10. [301 Day 10 reading](301day10.md)
+
+11. [301 Day 11 reading](301day11.md)
+
+12. [301 Day 12 reading](301day12.md)
+
+13. [301 Day 13 reading](301day13.md)
+
+14. [301 Day 14 reading](301day14.md)
+
+15. [301 Day 15 reading](301day15.md)
+
 ### Profiles
 [Canvas](https://canvas.instructure.com/about/27593262)
 
