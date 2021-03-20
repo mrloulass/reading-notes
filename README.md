@@ -56,7 +56,7 @@ Hello I'm Louis. I enjoy traveling, playing video games and watching sports.
 
 15. [201 Day 15 reading](201day15.md)
 
-##Seattle-Code-301n21: Intermediate Software Development
+## Seattle-Code-301n21: Intermediate Software Development
 
 1. [301 Day 01 reading](301day01.md)
 
