@@ -88,6 +88,12 @@ Hello I'm Louis. I enjoy traveling, playing video games and watching sports.
 
 15. [301 Day 15 reading](301day15.md)
 
+## Seattle-Code-Javascript-401d42: Advanced Software Development
+
+0. [401 Day 00 Prework Reading](401day00.md)
+
+1. [401 Day 01 Reading](401day01.md)
+
 ### Profiles
 [Canvas](https://canvas.instructure.com/about/27593262)
 
