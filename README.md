@@ -94,6 +94,26 @@ Hello I'm Louis. I enjoy traveling, playing video games and watching sports.
 
 1. [401 Day 01 Reading](401day01.md)
 
+2. [401 Day 02 Reading](401day02.md)
+
+3. [401 Day 03 Reading](401day03.md)
+
+4. [401 Day 04 Reading](401day04.md)
+
+5. [401 Day 05 Reading](401day05.md)
+
+6. [401 Day 06 Reading](401day06.md)
+
+7. [401 Day 07 Reading](401day07.md)
+
+8. [401 Day 08 Reading](401day08.md)
+
+9. [401 Day 09 Reading](401day09.md)
+
+10. [401 Day 10 Reading](401day10.md)
+
+11. [401 Day 11 Reading](401day11.md)
+
 ### Profiles
 [Canvas](https://canvas.instructure.com/about/27593262)
 
