@@ -21,3 +21,15 @@ class LinkedList {
     return localArray;
   }
 }
+let list = LinkedList();
+
+//{head: null}
+
+let node1 = new Node(2);
+let node2 = new Node ('string');
+let node3 = new Node (10);
+
+list.head = node1;
+list.head.next = node2;
+list.head.next.next = node3;
+
