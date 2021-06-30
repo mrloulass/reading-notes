@@ -1,7 +1,7 @@
-`use strict`
+'use strict';
 
 class Node{
-  constructor(){
+  constructor(value){
     this.value= value;
     this.next = null;
   }
@@ -38,7 +38,7 @@ dequeue() {
   // * Set the `front` of the queue to the (front|temp)next node.
   this.front = temp.next;
 
-  // * set `temp`.next to null (remove al node references)
+  // * set `temp`.next to null (remove all node references)
   // * return `temp` node value;
   temp.next = null;
   return temp.value;
