@@ -21,4 +21,3 @@
 - [looking for open source](https://www.firsttimersonly.com/)
   - [How to contribute to open source](https://github.com/firstcontributions/first-contributions)
 
-- 
